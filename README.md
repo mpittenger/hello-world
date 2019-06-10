@@ -1,1 +1,3 @@
 # hello-world
+just doing some stuff. 
+trying to follow the directions...
